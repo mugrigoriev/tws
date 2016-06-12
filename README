@@ -1,0 +1,10 @@
+Settings:
+settings.py
+
+How to run:
+$ python tws.py
+
+How to test:
+$ python -m tornado.testing discover
+
+browser/index.html - one more test
